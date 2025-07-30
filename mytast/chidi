@@ -1,0 +1,8 @@
+//let obj = require ("./job")
+//obj.formerobj. price = 5000
+//console.log(obj)
+
+
+const numbers = [3,10,6,2,15,8,20]
+ numbers.push(50)
+ console.log(result)

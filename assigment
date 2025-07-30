@@ -1,0 +1,7 @@
+ function
+duobleGreaterThanTen(Numbers){
+ return Numbers.filter(num =>num> 10).map(num => num * 2);
+  console.log(duobleGreaterThanTen(['5','12','8','15']))
+}
+
+

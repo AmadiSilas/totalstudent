@@ -1,0 +1,7 @@
+const addAge = (x,y)=>{
+    return (x+y)
+}
+experts . infor = "silas"
+formerObj = {car: "volve"}
+formerObj. price = 3000
+formerObj. car =" ferrari"
